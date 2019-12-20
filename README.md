@@ -1,6 +1,9 @@
 # TESTE FOCO
 
-### Json
+### Link de download do Adobe XD
+https://www.adobe.com/br/products/xd.html
+
+### Json retornado pela API 
 
 ```json
 {
@@ -19,7 +22,7 @@
             }
         },
         {
-            "id": 120,
+            "id": 98,
             "nome": "Camiseta Calvin Klein Jeans Lettering Verde",
             "imagem": "https://picsum.photos/id/1038/140/140",
             "valor_unitario": 99.99,
@@ -30,7 +33,7 @@
             }
         },
         {
-            "id": 120,
+            "id": 134,
             "nome": "Camiseta Volcom Real Life Branca",
             "imagem": "https://picsum.photos/id/773/140/140",
             "valor_unitario": 79.90,
@@ -41,7 +44,7 @@
             }
         },
         {
-            "id": 120,
+            "id": 156,
             "nome": "Camiseta Levis Sportwear Logo",
             "imagem": "https://picsum.photos/id/865/140/140",
             "valor_unitario": 79.90,
@@ -52,7 +55,7 @@
             }
         },
         {
-            "id": 120,
+            "id": 187,
             "nome": "Camiseta Element Authentic Vinho",
             "imagem": "https://picsum.photos/id/464/140/140",
             "valor_unitario": 99.90,
@@ -61,8 +64,7 @@
                 "id": 13,
                 "nome": "Dafiti",
             }
-        },
+        }
     ]
 }
-
 ```
