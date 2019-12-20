@@ -50,7 +50,7 @@ O valor_unitario_promocional será usado somente quando o mesmo for inferior ao 
             "nome": "Camiseta Levis Sportwear Logo",
             "imagem": "https://picsum.photos/id/865/140/140",
             "valor_unitario": 59.99,
-            "valor_unitario_promocional": 100,
+            "valor_unitario_promocional": 0,
             "marketplace": {
                 "id": 8,
                 "nome": "Zatini",
