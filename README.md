@@ -5,6 +5,8 @@ https://www.adobe.com/br/products/xd.html
 
 ### Json retornado pela API 
 
+O valor_unitario_promocional será usado somente quando o mesmo for inferior ao valor_unitario e maior do que 0.
+
 ```json
 {
     "success": true,
@@ -25,8 +27,8 @@ https://www.adobe.com/br/products/xd.html
             "id": 98,
             "nome": "Camiseta Calvin Klein Jeans Lettering Verde",
             "imagem": "https://picsum.photos/id/1038/140/140",
-            "valor_unitario": 99.99,
-            "valor_unitario_promocional": 79.89,
+            "valor_unitario": 79.89,
+            "valor_unitario_promocional": 0,
             "marketplace": {
                 "id": 1,
                 "nome": "Ushop",
@@ -47,8 +49,8 @@ https://www.adobe.com/br/products/xd.html
             "id": 156,
             "nome": "Camiseta Levis Sportwear Logo",
             "imagem": "https://picsum.photos/id/865/140/140",
-            "valor_unitario": 79.90,
-            "valor_unitario_promocional": 59.99,
+            "valor_unitario": 59.99,
+            "valor_unitario_promocional": 100,
             "marketplace": {
                 "id": 8,
                 "nome": "Zatini",
