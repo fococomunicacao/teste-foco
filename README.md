@@ -1,6 +1,6 @@
 # TESTE FOCO
 
-### Link de download do Adobe XD
+### Link para download do Adobe XD
 https://www.adobe.com/br/products/xd.html
 
 ### Json retornado pela API 
